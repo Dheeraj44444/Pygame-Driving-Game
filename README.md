@@ -8,9 +8,9 @@ A simple lane-switching car game made with Pygame. Avoid incoming vehicles, scor
 - Avoid colliding with other vehicles.
 - The game speeds up as you score more points.
 
-## Demo
+## Demo Video
 
-
+gameplay : [Pygame Driving Game Demo](./pygame-driving-game.mp4)
 
 ## Installation
 
